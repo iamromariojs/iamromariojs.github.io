@@ -307,7 +307,6 @@
 		width: 100%;
 		display: block;
     color: #ffffff;
-		background: red;
 	}
 	
 	.contato_container p {
@@ -319,8 +318,13 @@
 		margin-bottom: 20px;
 	}
 	
+	.services h2 {
+		margin: 0
+	}
 	
-	
+	.services > p {
+		margin: 15px 0;
+	}
 	
 	.services-item {
 		width: 100%;
