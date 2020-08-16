@@ -50,8 +50,9 @@
 	font-size: 26px;
 }
 
-.services_container p {
-	font-size: 13px;
+.services p {
+	font-size: 1em;
+	margin: 15px 0;
 }
 
 .services-item {
@@ -227,9 +228,10 @@
 			padding: 20px;
 			margin-bottom: 30px;
 		}
-	
-		.services p {
-			margin-bottom: 0px;
+
+		.services > p {
+			margin: 15px 0;
+		
 		}
 
 		.services h3:hover {
